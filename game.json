@@ -12,7 +12,9 @@
     "brother": 0,
     "friend": 0,
     "mom": 0,
-    "sister": 0
+    "sister": 0,
+    "positive": "You haven't exercised in ages. Let's do yoga for 10 minutes.",
+    "negative": "N/A"
   },
   {
     "id": 2,
@@ -27,7 +29,9 @@
     "brother": 0,
     "friend": 0,
     "mom": 0,
-    "sister": 0
+    "sister": 0,
+    "positive": "N/A",
+    "negative": "There is nothing here. You feel hungry."
   },
   {
     "id": 3,
@@ -42,7 +46,9 @@
     "brother": 0,
     "friend": 0,
     "mom": 0,
-    "sister": 0
+    "sister": 0,
+    "positive": "There is some noodles in the bowl with your name on it. It's tasty.",
+    "negative": "N/A"
   },
   {
     "id": 4,
@@ -57,7 +63,9 @@
     "brother": 0,
     "friend": 0,
     "mom": 0,
-    "sister": 0
+    "sister": 0,
+    "positive": "You played with play station for an hour. You feel happy.",
+    "negative": "You lost the game. You feel bitter."
   },
   {
     "id": 5,
@@ -72,7 +80,9 @@
     "brother": 0,
     "friend": 0,
     "mom": 0,
-    "sister": 0
+    "sister": 0,
+    "positive": "You studied for an hour. You learned something new.",
+    "negative": "It was hard topic. You feel completely lost."
   },
   {
     "id": 6,
@@ -87,7 +97,9 @@
     "brother": 0,
     "friend": 0,
     "mom": 0,
-    "sister": 0
+    "sister": 0,
+    "positive": "Birds are singing nearby. You feel refreshed.",
+    "negative": "It's too noisy. You are irritated"
   },
   {
     "id": 7,
@@ -102,7 +114,9 @@
     "brother": 1,
     "friend": 0,
     "mom": 0,
-    "sister": 0
+    "sister": 0,
+    "positive": "You played pokemon with him. He is very happy.",
+    "negative": "He is yelling loudly. He wants new game."
   },
   {
     "id": 8,
@@ -117,7 +131,9 @@
     "brother": 0,
     "friend": 0,
     "mom": 0,
-    "sister": 0
+    "sister": 0,
+    "positive": "N/A",
+    "negative": "N/A"
   },
   {
     "id": 9,
@@ -132,7 +148,9 @@
     "brother": 0,
     "friend": 0,
     "mom": 0,
-    "sister": 1
+    "sister": 1,
+    "positive": "You gifted her a barbie doll. She is super excited.",
+    "negative": "Her doll is broken. She looks sad."
   },
   {
     "id": 10,
@@ -147,7 +165,9 @@
     "brother": 0,
     "friend": 0,
     "mom": 0,
-    "sister": 0
+    "sister": 0,
+    "positive": "N/A",
+    "negative": "N/A"
   },
   {
     "id": 11,
@@ -162,7 +182,9 @@
     "brother": 0,
     "friend": 0,
     "mom": 0,
-    "sister": 0
+    "sister": 0,
+    "positive": "N/A",
+    "negative": "N/A"
   },
   {
     "id": 12,
@@ -177,7 +199,9 @@
     "brother": 0,
     "friend": 1,
     "mom": 0,
-    "sister": 0
+    "sister": 0,
+    "positive": "N/A",
+    "negative": "N/A"
   },
   {
     "id": 13,
@@ -192,7 +216,9 @@
     "brother": 0,
     "friend": 0,
     "mom": 0,
-    "sister": 0
+    "sister": 0,
+    "positive": "N/A",
+    "negative": "N/A"
   },
   {
     "id": 14,
@@ -207,7 +233,9 @@
     "brother": 0,
     "friend": 0,
     "mom": 1,
-    "sister": 0
+    "sister": 0,
+    "positive": "She gifted you a choco bar. You feel happy.",
+    "negative": "N/A"
   },
   {
     "id": 15,
@@ -222,7 +250,9 @@
     "brother": 0,
     "friend": 0,
     "mom": 0,
-    "sister": 0
+    "sister": 0,
+    "positive": "You studied for an hour. You learned something new.",
+    "negative": "It was hard topic. You feel completely lost."
   },
   {
     "id": 16,
@@ -237,7 +267,9 @@
     "brother": 0,
     "friend": 0,
     "mom": 0,
-    "sister": 0
+    "sister": 0,
+    "positive": "N/A",
+    "negative": "N/A"
   },
   {
     "id": 17,
@@ -252,7 +284,9 @@
     "brother": 0,
     "friend": 0,
     "mom": 0,
-    "sister": 0
+    "sister": 0,
+    "positive": "N/A",
+    "negative": "N/A"
   },
   {
     "id": 18,
@@ -267,7 +301,9 @@
     "brother": 0,
     "friend": 0,
     "mom": 0,
-    "sister": 0
+    "sister": 0,
+    "positive": "N/A",
+    "negative": "N/A"
   },
   {
     "id": 19,
@@ -282,7 +318,9 @@
     "brother": 0,
     "friend": 0,
     "mom": 0,
-    "sister": 0
+    "sister": 0,
+    "positive": "The pricipal is congratulating you. You aced the test.",
+    "negative": "The principle is scolding you. You barely passed the test."
   },
   {
     "id": 20,
@@ -297,6 +335,8 @@
     "brother": 0,
     "friend": 0,
     "mom": 0,
-    "sister": 0
+    "sister": 0,
+    "positive": "N/A",
+    "negative": "N/A"
   }
 ]
